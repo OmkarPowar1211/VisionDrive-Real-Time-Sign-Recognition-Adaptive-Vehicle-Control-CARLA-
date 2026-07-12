@@ -1,0 +1,6 @@
+train: ../dataset/images/train
+val: ../dataset/images/validation
+
+nc: 4
+names: ['traffic_light', 'traffic_sign', 'stop_sign', 'speed_limit']
+
