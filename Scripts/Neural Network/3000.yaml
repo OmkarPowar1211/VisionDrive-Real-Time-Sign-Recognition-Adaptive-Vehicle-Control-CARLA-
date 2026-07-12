@@ -1,0 +1,12 @@
+# Dataset configuration for Carla Simulator traffic light and speed limit detection
+
+# Paths to the dataset (train and validation images)
+train: C:/Users/athar/Downloads/TH_OWL/AUV/Team7_Carla/3000/images/train
+val: C:/Users/athar/Downloads/TH_OWL/AUV/Team7_Carla/3000/images/val
+
+# Number of classes and class names
+nc: 6  # There are now 4 classes: Traffic Light Red, Green, Yellow, and Speed Limit 30
+names: ['Traffic_Light_Red', 'Traffic_Light_Green', 'Traffic_Light_Yellow', 'Traffic_Sign_30']
+
+
+
